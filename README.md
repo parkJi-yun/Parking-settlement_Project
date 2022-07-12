@@ -1,2 +1,2 @@
-# Second-Java_Project
+# Second-Java-Project
 Team Project
